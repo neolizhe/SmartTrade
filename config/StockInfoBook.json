@@ -1,0 +1,361 @@
+
+{
+  "_c1": "基本资料",
+  "所属新证监会行业": [
+    "ths_the_new_csrc_industry_stock",
+    "2022-10-02,100"
+  ],
+  "所属中证行业": [
+    "ths_china_securities_industry_stock",
+    "2022-10-02,100"
+  ],
+  "所属AMAC指数": [
+    "ths_the_amac_index_stock",
+    "2022-10-02"
+  ],
+  "员工总数": [
+    "ths_ygzs_new_stock",
+    "2022-10-02"
+  ],
+  "最新主体评级": [
+    "ths_latest_subject_rating_stock",
+    ""
+  ],
+  "管理层年度薪酬总额": [
+    "ths_sm_annual_total_salary_stock",
+    "2022"
+  ],
+  "高管人数": [
+    "ths_sm_num_stock",
+    "2022-10-02"
+  ],
+  "核心技术人员人数": [
+    "ths_techcore_num_stock",
+    "2022-10-02"
+  ],
+  "研究生占比": [
+    "ths_postgraduate_num_ratio_stock",
+    "2022"
+  ],
+  "技术人员人数占比": [
+    "ths_tech_num_ratio_stock",
+    "2022"
+  ],
+  "管理人员人数占比": [
+    "ths_manage_staff_ratio_stock",
+    "2022"
+  ],
+  "区间违规处罚次数": [
+    "ths_int_illegality_num_stock",
+    "2022-10-02,-90"
+  ],
+  "区间违规处罚金额": [
+    "ths_int_illegality_amt_stock",
+    "2022-10-02,-90"
+  ],
+  "_c2": "股本结构",
+  "总股本": [
+    "ths_total_shares_stock",
+    "2022-10-02"
+  ],
+  "流通股合计": [
+    "ths_total_float_shares_stock",
+    "2022-10-02"
+  ],
+  "流通A股百分比": [
+    "ths_float_ashare_to_total_shares_stock",
+    "2022-10-02"
+  ],
+  "港股占总股本": [
+    "ths_hk_listed_stock_ratio_stock",
+    "2022-10-02"
+  ],
+  "海外股占总股本": [
+    "ths_overseas_listed_shares_ratio_stock",
+    "2022-10-02"
+  ],
+  "流通股东持股市值": [
+    "ths_float_holder_held_mv_stock",
+    "2022-10-02,1"
+  ],
+  "机构股东类型": [
+    "ths_org_holder_type_stock",
+    "2022-10-02,1"
+  ],
+  "前十大股东持股比例合计": [
+    "ths_top10_hlolder_held_ratio_stock",
+    "2022-10-02"
+  ],
+  "前十大流通股东持股比例合计": [
+    "ths_top10_float_hlolder_held_ratio_stock",
+    "2022-10-02"
+  ],
+  "户均持股数季度增长率": [
+    "ths_avg_held_num_growth_q_stock",
+    "2022-10-02,100"
+  ],
+  "户均持股数半年增长率": [
+    "ths_avg_held_num_growth_6m_stock",
+    "2022-10-02,100"
+  ],
+  "QFII持股比例": [
+    "ths_qfii_held_ratio_stock",
+    "2022-10-02"
+  ],
+  "基金持股比例": [
+    "ths_fund_held_ratio_stock",
+    "2022-10-02"
+  ],
+  "券商持股比例": [
+    "ths_broker_held_ratio_stock",
+    "2022-10-02"
+  ],
+  "累计质押占总股本比例": [
+    "ths_accum_pledge_num_ratio_stock",
+    "2022-10-02"
+  ],
+  "_c3":  "财务报表",
+  "流动资产合计": [
+    "ths_total_current_assets_stock",
+    "2022-10-02,100"
+  ],
+  "固定资产合计": [
+    "ths_fixed_asset_sum_pit_stock",
+    "2022-10-02,103,1"
+  ],
+  "单季度总营收": [
+    "ths_sq_operating_total_revenue_stock",
+    "2022-10-02,100"
+  ],
+  "单季度净利润": [
+    "ths_sq_np_stock",
+    "2022-10-02,100"
+  ],
+  "_c4": "财报分析",
+  "每股收益EPS-基本": [
+    "ths_eps_basic_stock",
+    "2022-10-02"
+  ],
+  "每股净资产BPS": [
+    "ths_nav_ps_stock",
+    "2022-10-02"
+  ],
+  "人均创收": [
+    "ths_revenue_pp_stock",
+    ""
+  ],
+  "净资产收益率ROE": [
+    "ths_roe_avg_by_ths_stock",
+    "2022-10-02"
+  ],
+  "总资产净利率": [
+    "ths_net_interest_of_ta_stock",
+    "2022-10-02"
+  ],
+  "销售毛利率": [
+    "ths_gross_selling_rate_stock",
+    "2022-10-02"
+  ],
+  "净利润总营收占比": [
+    "ths_np_to_revenue_stock",
+    "2022-10-02"
+  ],
+  "研发总营收占比": [
+    "ths_rad_cost_to_revenue_stock",
+    "2022-10-02"
+  ],
+  "_c5":  "同比增长率",
+  "每股收益增长率": [
+    "ths_bisic_eps_yoy_stock",
+    "2022-10-02"
+  ],
+  "总营收增长率": [
+    "ths_operating_revenue_yoy_stock",
+    "2022-10-02"
+  ],
+  "净利润增长率": [
+    "ths_np_yoy_stock",
+    "2022-10-02"
+  ],
+  "净资产增长率": [
+    "ths_net_assets_yoy_stock",
+    "2022-10-02"
+  ],
+  "研发费用增长率": [
+    "ths_rad_amt_yoy_stock",
+    "2022-10-02"
+  ],
+  "总营收N年增长率": [
+    "ths_total_revenue_growth_ny_stock",
+    "2022-10-02,3"
+  ],
+  "_c6": "3代表3年",
+  "利润N年增长率": [
+    "ths_operating_profit_growth_ny_stock",
+    "2022-10-02,3"
+  ],
+  "近利润N年增长率": [
+    "ths_net_profit_growth_ny_stock",
+    "2022-10-02,3"
+  ],
+  "总资产N年增长率": [
+    "ths_total_assets_growth_ny_stock",
+    "2022-10-02,3"
+  ],
+  "股东权益增长率": [
+    "ths_holder_equity_growth_ny_stock",
+    "2022-10-02,3"
+  ],
+  "净资产收益率增长率": [
+    "ths_net_asset_yield_growth_ny_stock",
+    "2022-10-02,3"
+  ],
+  "资产负责率": [
+    "ths_asset_liab_ratio_stock",
+    "2022-10-02"
+  ],
+  "利润总和占营收TTM": [
+    "ths_total_profit_to_oi_ttm_stock",
+    "2022-10-02,100"
+  ],
+  "_c7": "100是TTM基准日期",
+  "_c8":  "营运能力",
+  "流动资产周转率": [
+    "ths_current_asset_turnover_stock",
+    "2022-10-02"
+  ],
+  "固定资产周转率": [
+    "ths_fixed_asset_turnover_ratio_stock",
+    "2022-10-02"
+  ],
+  "营运资金周转率": [
+    "ths_operating_capital_turnover_stock",
+    "2022-10-02"
+  ],
+  "分红基准股本": [
+    "ths_dividend_benchmark_shares_stock",
+    "2022-10-02"
+  ],
+  "每股股利": [
+    "ths_dividend_ps_before_tax_stock",
+    "2022-10-02"
+  ],
+  "分红比例": [
+    "ths_dividend_ratio_stock",
+    "2022-10-02"
+  ],
+  "_c9":  "行情",
+  "开盘价": [
+    "ths_open_price_stock",
+    "2022-10-02,100,2022-10-02"
+  ],
+  "_c10":"交易日期，复权方式，设定复权基点",
+  "收盘价": [
+    "ths_close_price_stock",
+    "2022-10-02,100,2022-10-02"
+  ],
+  "最低价": [
+    "ths_low_stock",
+    "2022-10-02,100,2022-10-02"
+  ],
+  "最高价": [
+    "ths_high_price_stock",
+    "2022-10-02,100,2022-10-02"
+  ],
+  "均价": [
+    "ths_avg_price_stock",
+    "2022-10-02,100"
+  ],
+  "成交量": [
+    "ths_vol_stock",
+    "2022-10-02,100"
+  ],
+  "换手率": [
+    "ths_turnover_ratio_stock",
+    "2022-10-02"
+  ],
+  "_c11":"转手买卖的频率",
+  "_c12":"资金流向",
+  "流入量": [
+    "ths_inflow_vol_stock",
+    "2022-10-02,100"
+  ],
+  "流出量": [
+    "ths_outflow_vol_stock",
+    "2022-10-02,100"
+  ],
+  "主力净流入量": [
+    "ths_net_infow_stock",
+    "2022-10-02"
+  ],
+  "_c13":"大单流入流出差别",
+  "主力净流通率": [
+    "ths_main_inflow_rate_stock",
+    "2022-10-02"
+  ],
+  "_c14":"技术指标",
+  "MACD指数平滑异同平均": [
+    "ths_macd_stock",
+    "2022-10-02,26,12,9,100,100,100"
+  ],
+  "CCI顺势指标": [
+    "ths_cci_stock",
+    "2022-10-02,14,100,100"
+  ],
+  "ATR真实波幅": [
+    "ths_atr_stock",
+    "2022-10-02,14,100,100,100"
+  ],
+  "BOLL布林线": [
+    "ths_boll_stock",
+    "2022-10-02,26,2,100,100,100"
+  ],
+  "EXPMA指数平均数20": [
+    "ths_expma_stock",
+    "2022-10-02,20,100,100"
+  ],
+  "MA简单移动平均5":[
+    "ths_ma_stock",
+    "2022-10-02,5,100,100"
+  ],
+  "MA简单移动平均10":[
+    "ths_ma_stock",
+    "2022-10-02,10,100,100"
+  ],
+  "MTM动力指标6": [
+    "ths_mtm_stock",
+    "2022-10-02,6,6,101,100,100"
+  ],
+  "MTM动力指标12": [
+    "ths_mtm_stock",
+    "2022-10-02,12,12,101,100,100"
+  ],
+  "ROC变动速率": [
+    "ths_roc_stock",
+    "2022-10-02,12,6,100,100,100"
+  ],
+  "SI摆动指标": [
+    "ths_si_stock",
+    "2022-10-02,100,100"
+  ],
+  "SRMI修正摆动指标": [
+    "ths_srmi_stock",
+    "2022-10-02,9,100,100"
+  ],
+  "WVAD威廉姆变异离散量": [
+    "ths_wvad_stock",
+    "2022-10-02,24,6,101,100,100"
+  ],
+  "量比": [
+    "ths_vol_ratio_stock",
+    "2022-10-02,5,100"
+  ],
+  "TAPI加权指数成交值": [
+    "ths_tapi_stock",
+    "2022-10-02,6,101,100"
+  ],
+  "MFI资金流向指标": [
+    "ths_mfi_stock",
+    "2022-10-02,14,100,100"
+  ]
+}

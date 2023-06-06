@@ -1,0 +1,29 @@
+model: <class 'pyabsa.core.apc.models.fast_lcf_bert.FAST_LCF_BERT'>
+optimizer: adam
+learning_rate: 2e-05
+pretrained_bert: bert-base-chinese
+use_bert_spc: True
+cache_dataset: True
+patience: 5916190.8375
+max_seq_len: 80
+dropout: 0.5
+l2reg: 1e-08
+num_epoch: 10
+batch_size: 16
+initializer: xavier_uniform_
+seed: 52
+embed_dim: 768
+polarities_dim: 2
+log_step: 5
+evaluate_begin: 4
+cross_validate_fold: -1
+dataset_name: Chinese
+dataset_file: {'train': ['integrated_datasets/apc_datasets/Chinese/phone/phone.train.txt', 'integrated_datasets/apc_datasets/Chinese/camera/camera.train.txt', 'integrated_datasets/apc_datasets/Chinese/notebook/notebook.train.txt', 'integrated_datasets/apc_datasets/Chinese/car/car.train.txt'], 'test': ['integrated_datasets/apc_datasets/Chinese/phone/phone.test.txt', 'integrated_datasets/apc_datasets/Chinese/camera/camera.test.txt', 'integrated_datasets/apc_datasets/Chinese/notebook/notebook.test.txt', 'integrated_datasets/apc_datasets/Chinese/car/car.test.txt'], 'valid': []}
+device: cuda:1
+auto_device: True
+model_name: fast_lcf_bert
+save_mode: 1
+model_path_to_save: checkpoints
+inputs_cols: {'lcf_vec', 'text_bert_indices', 'text_raw_bert_indices'}
+metrics_of_this_checkpoint: {'acc': 0.9711191335740073, 'f1': 0.9654345294215516}
+max_test_metrics: {'max_apc_test_acc': 0.9711191335740073, 'max_apc_test_f1': 0.9654345294215516, 'max_ate_test_f1': 0}
